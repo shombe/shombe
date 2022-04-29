@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shombe
+- 👋 Hi, I’m Okwong
 - 👀 I’m interested in developing my ICT skills
 - 🌱 I’m currently learning Data Visualization
 - 💞️ I’m looking to collaborate on Coding/Programming
